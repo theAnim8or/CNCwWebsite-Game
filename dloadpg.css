@@ -3,7 +3,7 @@
 }   
 
 body {  
-    background-image: url(assetImages/chainBac.gif);
+    background-image: url(chainBac.gif);
     background-size: auto; 
     display: block;
     position: absolute;
@@ -19,7 +19,7 @@ body {
     
 }
 .button {
-    background-image: url(assetImages/buttonImg.gif);
+    background-image: url(buttonImg.gif);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -36,7 +36,7 @@ body {
   }
   
   .button:hover {
-  background-image: url(assetImages/chainBac.gif);
+  background-image: url(chainBac.gif);
   
   } 
 
